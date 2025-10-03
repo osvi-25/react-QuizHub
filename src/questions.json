@@ -1,0 +1,62 @@
+[
+    {
+      "id" :  1,
+      "question" : "Which of the following is the smallest unit of data in a computer?",
+      "options" : ["Bit","Byte","Nibble","Word"],
+      "correctOption" : "Bit"
+    },
+    {
+      "id" :  2,
+      "question" : "Which data structure uses FIFO (First In, First Out)?",
+      "options" : ["Stack","Queue","Tree","Graph"],
+      "correctOption" : "Queue"
+    },
+    {
+      "id" :  3,
+      "question" : "Which sorting algorithm has the best average-case complexity?",
+      "options" : ["Bubble Sort","Insertion Sort","Merge Sort","Selection Sort"],
+      "correctOption" : "Merge Sort"
+    },
+    {
+      "id" :  4,
+      "question" : "Which of these is not an operating system?",
+      "options" : ["Windows","Linux","Oracle","macOS"],
+      "correctOption" : "Oracle"
+    },
+    {
+      "id" :  5,
+      "question" : "What does SQL stand for?",
+      "options" : ["Structured Query Language","Sequential Query Language","Systematic Query Language","Standard Query Language"],
+      "correctOption" : "Structured Query Language"
+    },
+    {
+      "id" :  6,
+      "question" : "Which of the following is a non-volatile memory?",
+      "options" : ["RAM","Cache","Hard Disk","Register"],
+      "correctOption" : "Hard Disk"
+    },
+    {
+      "id" :  7,
+      "question" : "In computer networks, which layer is responsible for routing?",
+      "options" : ["Application layer","Transport layer","Network layer","Data Link layer"],
+      "correctOption" : "Network layer"
+    },
+    {
+      "id" :  8,
+      "question" : "What is the time complexity of binary search?",
+      "options" : ["O(n)","O(log n)","O(n²)","O(1)"],
+      "correctOption" : "O(log n)"
+    },
+    {
+      "id" :  9,
+      "question" : "Which of these is an example of an object-oriented programming language?",
+      "options" : ["C","Assembly","Java","COBOL"],
+      "correctOption" : "Java"
+    },
+    {
+      "id" :  10,
+      "question" : "Which protocol is used for secure communication over the internet?",
+      "options" : ["HTTP","FTP","HTTPS","SMTP"],
+      "correctOption" : "HTTPS"
+    }
+]
